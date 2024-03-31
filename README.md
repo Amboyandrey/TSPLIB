@@ -29,8 +29,8 @@
 - [ ] kroB150
 - [ ] kroC100
 - [ ] kroD100
-- [] kroE100
-- [] lin105
-- [] linhp318
-- [] nrw1379
+- [ ] kroE100
+- [ ] lin105
+- [ ] linhp318
+- [ ] nrw1379
 
