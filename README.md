@@ -14,23 +14,22 @@
 - [x] bier127
 - [x] ch130
 - [x] ch150
-- [] d198
-- [] d493
-- [] d657
+- [x] d198
+- [x] d493
 - [x] eil51
 - [x] eil76
 - [x] eil101
-- [] fl417
-- [] fl1400
-- [] gil262
-- [] kroA100
-- [] kroA150
-- [] kroB100
-- [] kroB150
-- [] kroC100
-- [] kroD100
-- [] kroE100
-- [] lin105
-- [] linhp318
-- [] nrw1379
+- [ ] fl417
+- [ ] fl1400
+- [ ] gil262
+- [ ] kroA100
+- [ ] kroA150
+- [ ] kroB100
+- [ ] kroB150
+- [ ] kroC100
+- [ ] kroD100
+- [ ] kroE100
+- [ ] lin105
+- [ ] linhp318
+- [ ] nrw1379
 
