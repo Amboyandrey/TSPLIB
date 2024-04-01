@@ -14,18 +14,18 @@
 - [x] bier127
 - [x] ch130
 - [x] ch150
-- [x] d198
-- [x] d493
+- [x] d198 - 3opt not finished
+- [x] d493 - 3opt not finished
 - [x] eil51
 - [x] eil76
 - [x] eil101
 - [ ] fl417
 - [ ] fl1400
 - [ ] gil262
-- [ ] kroA100
-- [ ] kroA150
-- [ ] kroB100
-- [ ] kroB150
+- [x] kroA100
+- [x] kroA150
+- [x] kroB100
+- [x] kroB150
 - [ ] kroC100
 - [ ] kroD100
 - [ ] kroE100
