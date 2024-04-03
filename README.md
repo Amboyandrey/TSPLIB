@@ -14,7 +14,7 @@
 - [x] bier127
 - [x] ch130
 - [x] ch150
-- [x] d198 - 3opt not finished
+- [x] d198
 - [x] d493 - 3opt not finished
 - [x] eil51
 - [x] eil76
