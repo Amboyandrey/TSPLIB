@@ -30,16 +30,16 @@
 - [x] kroC100
 - [x] kroD100
 - [x] kroE100
-- [ ] lin105
+- [x] lin105
 - [ ] linhp318
 - [ ] nrw1379
 - [ ] p654
 - [ ] pcb442
 - [ ] pcb1173
-- [ ] pr76
-- [ ] pr107
-- [ ] pr136
-- [ ] pr152
+- [x] pr76
+- [x] pr107
+- [x] pr136
+- [x] pr152
 - [ ] rat99
 - [ ] rat195
 - [ ] rat575
