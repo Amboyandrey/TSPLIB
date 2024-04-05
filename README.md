@@ -1,4 +1,4 @@
-# NNH with 2-Opt and 3-Opt x
+# NNH with 2-Opt and 3-Opt
 
 ## GEO
 - [x] ali535
