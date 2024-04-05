@@ -33,16 +33,15 @@
 - [x] lin105
 - [ ] linhp318
 - [ ] nrw1379
-- [ ] p654
+- [x] p654 - wala pa 3-Opt
 - [ ] pcb442
 - [ ] pcb1173
 - [x] pr76
 - [x] pr107
 - [x] pr136
 - [x] pr152
-- [ ] rat99
-- [ ] rat195
-- [ ] rat575
+- [x] rat99
+- [x] rat195 - wala pa 3-Opt
 - [ ] rd100
 - [ ] rd500
 - [ ] rl1304
