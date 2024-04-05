@@ -41,7 +41,7 @@
 - [x] pr136
 - [x] pr152
 - [x] rat99
-- [x] rat195 - wala pa 3-Opt
+- [x] rat195
 - [ ] rd100
 - [ ] rd500
 - [ ] rl1304
