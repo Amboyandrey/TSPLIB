@@ -9,8 +9,6 @@
 ## ATT
 - [x] att48
 
-## CEIL_2D
-
 ## EUC_2D
 - [x] a280
 - [x] berlin52
@@ -56,8 +54,6 @@
 
 ## ATT
 - [x] att48
-
-## CEIL_2D
 
 ## EUC_2D
 - [x] a280
