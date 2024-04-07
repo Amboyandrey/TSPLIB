@@ -7,6 +7,7 @@
 - [x] ulysses22
 
 ## ATT
+- [x] att48
 
 ## CEIL_2D
 
@@ -39,9 +40,58 @@
 - [x] pr152
 - [x] rat99
 - [x] rat195
-- [ ] rd100 - 3-Opt wala pa
+- [x] rd100
 - [ ] rd400 - 3-Opt wala pa
 - [x] st70
-- [ ] ts225 - 3-Opt wala pa
-- [ ] u159 - 3-Opt wala pa
+- [x] ts225
+- [x] u159
+
+# ACO, SA, and NIH
+
+## GEO
+- [ ] ali535
+- [ ] burma14
+- [ ] ulysses16
+- [ ] ulysses22
+
+## ATT
+- [x] att48
+
+## CEIL_2D
+
+## EUC_2D
+- [x] a280
+- [x] berlin52
+- [x] bier127
+- [x] ch130
+- [x] ch150
+- [ ] d198
+- [ ] d493
+- [x] eil51
+- [x] eil76
+- [x] eil101
+- [ ] fl417
+- [ ] gil262
+- [ ] kroA100
+- [ ] kroA150
+- [ ] kroB100
+- [ ] kroB150
+- [ ] kroC100
+- [ ] kroD100
+- [ ] kroE100
+- [ ] lin105
+- [ ] linhp318
+- [ ] pcb442
+- [ ] pr76
+- [ ] pr107
+- [ ] pr136
+- [ ] pr152
+- [ ] rat99
+- [ ] rat195
+- [ ] rd100
+- [ ] rd400
+- [ ] st70
+- [ ] ts225
+- [ ] u159
+
 
