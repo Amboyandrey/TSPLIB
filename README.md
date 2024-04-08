@@ -48,9 +48,9 @@
 
 ## GEO
 - [ ] ali535
-- [ ] burma14
-- [ ] ulysses16
-- [ ] ulysses22
+- [x] burma14
+- [x] ulysses16
+- [x] ulysses22
 
 ## ATT
 - [x] att48
@@ -66,17 +66,17 @@
 - [x] eil51
 - [x] eil76
 - [x] eil101
-- [ ] fl417
-- [ ] gil262
-- [ ] kroA100
-- [ ] kroA150
-- [ ] kroB100
-- [ ] kroB150
-- [ ] kroC100
-- [ ] kroD100
-- [ ] kroE100
-- [ ] lin105
-- [ ] linhp318
+- [x] fl417
+- [x] gil262
+- [x] kroA100
+- [x] kroA150
+- [x] kroB100
+- [x] kroB150
+- [x] kroC100
+- [x] kroD100
+- [x] kroE100
+- [x] lin105
+- [x] linhp318
 - [ ] pcb442
 - [x] pr76
 - [x] pr107
