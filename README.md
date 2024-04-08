@@ -30,7 +30,7 @@
 - [x] kroD100
 - [x] kroE100
 - [x] lin105
-- [ ] linhp318 - 3-Opt wala pa
+- [x] linhp318
 - [ ] pcb442 - 3-Opt wala pa
 - [x] pr76
 - [x] pr107
