@@ -47,7 +47,7 @@
 # ACO, SA, and NIH
 
 ## GEO
-- [ ] ali535
+- [x] ali535
 - [x] burma14
 - [x] ulysses16
 - [x] ulysses22
@@ -77,7 +77,7 @@
 - [x] kroE100
 - [x] lin105
 - [x] linhp318
-- [ ] pcb442
+- [x] pcb442
 - [x] pr76
 - [x] pr107
 - [x] pr136
