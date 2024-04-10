@@ -39,7 +39,7 @@
 - [x] rat99
 - [x] rat195
 - [x] rd100
-- [ ] rd400 - 3-Opt wala pa
+- [x] rd400
 - [x] st70
 - [x] ts225
 - [x] u159
