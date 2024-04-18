@@ -16,7 +16,7 @@
 - [x] ch130
 - [x] ch150
 - [x] d198
-- [ ] d493 - 3-Opt wala pa
+- [x] d493
 - [x] eil51
 - [x] eil76
 - [x] eil101
@@ -31,7 +31,7 @@
 - [x] kroE100
 - [x] lin105
 - [x] linhp318
-- [ ] pcb442 - 3-Opt wala pa
+- [x] pcb442
 - [x] pr76
 - [x] pr107
 - [x] pr136
